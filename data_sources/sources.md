@@ -1,6 +1,6 @@
 # 数据源规范
 
-更新时间：2026-06-11T12:13:43+08:00
+更新时间：2026-06-11T12:31:36+08:00
 
 ## 数据源优先级
 
@@ -61,21 +61,24 @@
 - 盘口以用户提供的最新快照为准。
 - 新闻和伤停信息需要列出冲突来源，不得直接合并为确定结论。
 
-## 首日已核对公开信息
+## 最近四场已核对公开信息
 
-截至 2026-06-11T12:13:43+08:00，公开页面显示 2026-06-11 的 Group A 比赛包括：
+截至 2026-06-11T12:31:36+08:00，公开页面显示最近四场未开赛世界杯比赛为：
 
-- Mexico vs South Africa，Mexico City Stadium，3:00 p.m. ET
-- South Korea vs Czechia，Guadalajara Stadium，10:00 p.m. ET
+| 场次 | 比赛 | 阶段 | 场地 | 美东时间 | 北京时间 |
+| --- | --- | --- | --- | --- | --- |
+| 001 | Mexico vs South Africa | Group A | Mexico City Stadium | 2026-06-11 15:00 ET | 2026-06-12 03:00 +08:00 |
+| 002 | South Korea vs Czechia | Group A | Guadalajara Stadium | 2026-06-11 22:00 ET | 2026-06-12 10:00 +08:00 |
+| 003 | Canada vs Bosnia and Herzegovina | Group B | Toronto Stadium | 2026-06-12 15:00 ET | 2026-06-13 03:00 +08:00 |
+| 004 | USA vs Paraguay | Group D | Los Angeles Stadium | 2026-06-12 21:00 ET | 2026-06-13 09:00 +08:00 |
 
-北京时间换算：
+本次公开盘口来源包括：
 
-- Mexico vs South Africa：2026-06-12 03:00 +08:00
-- South Korea vs Czechia：2026-06-12 10:00 +08:00
+- 365Scores/BetMGM：四场胜平负和部分大小球。
+- RotoWire：墨西哥 vs 南非、加拿大 vs 波黑、美国 vs 巴拉圭的多家胜平负汇总和赛前情报。
+- BetInAsia：墨西哥 vs 南非的亚洲让球和大小球公开片段。
+- SBG Global：加拿大 vs 波黑的胜平负、让球和大小球。
+- Pinnacle 公开页面片段：韩国 vs 捷克、美国 vs 巴拉圭的胜平负、让球和大小球。
+- FOX Sports：赛程交叉验证，加拿大 vs 波黑比赛页的胜平负和大小球片段。
 
-公开赔率页面片段显示：
-
-- Mexico vs South Africa：MEX -246
-- South Korea vs Czechia：KOR +167，CZE +179
-
-这些只是公开胜平负片段，不等同于完整盘口。亚洲让球和大小球仍需后续补充。
+用户后续提供盘口文本或截图时，仍以用户提供的最新快照为最高优先级。
