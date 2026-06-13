@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 沙特阿拉伯国家队
 
-team_en: Mexico
-team_code: MEX
-confederation: CONCACAF
+team_en: Saudi Arabia
+team_code: KSA
+confederation: AFC
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group H
+- 小组对手：西班牙、佛得角、乌拉圭
+- 首场比赛：Saudi Arabia v Uruguay（FIFA 官方日期 2026-06-15，Miami Stadium，未开赛）
+- 队伍定位：亚洲参赛队，比赛强度和前场速度是主要观察方向。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-15 | Saudi Arabia v Uruguay | Miami Stadium | 未开赛 |
+| 2026-06-21 | Spain v Saudi Arabia | Atlanta Stadium | 未开赛 |
+| 2026-06-26 | Cabo Verde v Saudi Arabia | Houston Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 面对南美/欧洲强队时，中后场抗压是风险。
+- 转换速度能否形成有效射门是关键。
+- 若先失球，比赛可能变得开放。
 
 ## 资料来源
 

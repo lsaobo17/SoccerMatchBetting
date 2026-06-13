@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 土耳其国家队
 
-team_en: Mexico
-team_code: MEX
-confederation: CONCACAF
+team_en: Türkiye
+team_code: TUR
+confederation: UEFA
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group D
+- 小组对手：美国、巴拉圭、澳大利亚
+- 首场比赛：Australia v Türkiye（FIFA 官方日期 2026-06-13，BC Place Vancouver，未开赛）
+- 队伍定位：欧洲参赛队，进攻天赋和比赛情绪波动并存。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-13 | Australia v Türkiye | BC Place Vancouver | 未开赛 |
+| 2026-06-19 | Türkiye v Paraguay | San Francisco Bay Area Stadium | 未开赛 |
+| 2026-06-25 | Türkiye v USA | Los Angeles Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 前场创造力能提高大球上限。
+- 防线稳定性和犯规控制需要赛前复核。
+- 若盘口过深，冷门和平局风险会抬升。
 
 ## 资料来源
 

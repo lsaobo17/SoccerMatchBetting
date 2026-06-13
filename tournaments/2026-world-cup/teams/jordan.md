@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 约旦国家队
 
-team_en: Mexico
-team_code: MEX
-confederation: CONCACAF
+team_en: Jordan
+team_code: JOR
+confederation: AFC
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group J
+- 小组对手：阿根廷、阿尔及利亚、奥地利
+- 首场比赛：Austria v Jordan（FIFA 官方日期 2026-06-16，San Francisco Bay Area Stadium，未开赛）
+- 队伍定位：亚洲参赛队，世界杯新面孔，防守反击和纪律性是主要基础。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-16 | Austria v Jordan | San Francisco Bay Area Stadium | 未开赛 |
+| 2026-06-22 | Jordan v Algeria | San Francisco Bay Area Stadium | 未开赛 |
+| 2026-06-27 | Jordan v Argentina | Dallas Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 防守抗压时间和门将发挥很关键。
+- 反击第一脚和定位球是主要进球路径。
+- 资料样本少时，必须降低信心等级。
 
 ## 资料来源
 

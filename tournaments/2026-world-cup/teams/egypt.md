@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 埃及国家队
 
-team_en: Mexico
-team_code: MEX
-confederation: CONCACAF
+team_en: Egypt
+team_code: EGY
+confederation: CAF
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group G
+- 小组对手：比利时、伊朗、新西兰
+- 首场比赛：Belgium v Egypt（FIFA 官方日期 2026-06-15，Seattle Stadium，未开赛）
+- 队伍定位：非洲参赛队，前场单点能力和防守组织并重。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-15 | Belgium v Egypt | Seattle Stadium | 未开赛 |
+| 2026-06-21 | New Zealand v Egypt | BC Place Vancouver | 未开赛 |
+| 2026-06-26 | Egypt v IR Iran | Seattle Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 核心攻击点可用性是最大变量。
+- 防守阵型完整时，小比分抗衡能力较强。
+- 若先丢球，阵地进攻效率会被放大检验。
 
 ## 资料来源
 

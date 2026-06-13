@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 克罗地亚国家队
 
-team_en: Mexico
-team_code: MEX
-confederation: CONCACAF
+team_en: Croatia
+team_code: CRO
+confederation: UEFA
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group L
+- 小组对手：英格兰、加纳、巴拿马
+- 首场比赛：England v Croatia（FIFA 官方日期 2026-06-17，Dallas Stadium，未开赛）
+- 队伍定位：欧洲经验型强队，中场控制和淘汰赛经验是主要资产。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-17 | England v Croatia | Dallas Stadium | 未开赛 |
+| 2026-06-23 | Panama v Croatia | Toronto Stadium | 未开赛 |
+| 2026-06-27 | Croatia v Ghana | Philadelphia Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 中场控节奏能力会影响小比分走势。
+- 老将体能和轮换策略要赛前复核。
+- 面对强队时，平局和加时型思路需保留。
 
 ## 资料来源
 

@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 巴拿马国家队
 
-team_en: Mexico
-team_code: MEX
+team_en: Panama
+team_code: PAN
 confederation: CONCACAF
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group L
+- 小组对手：英格兰、克罗地亚、加纳
+- 首场比赛：Ghana v Panama（FIFA 官方日期 2026-06-17，Toronto Stadium，未开赛）
+- 队伍定位：中北美参赛队，防守纪律和身体对抗是小组抢分基础。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-17 | Ghana v Panama | Toronto Stadium | 未开赛 |
+| 2026-06-23 | Panama v Croatia | Toronto Stadium | 未开赛 |
+| 2026-06-27 | Panama v England | New York New Jersey Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 防线抗压能力会决定比分上限。
+- 定位球和反击是主要进球来源。
+- 面对欧洲强队时，盘口信心要保守。
 
 ## 资料来源
 

@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 哥伦比亚国家队
 
-team_en: Mexico
-team_code: MEX
-confederation: CONCACAF
+team_en: Colombia
+team_code: COL
+confederation: CONMEBOL
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group K
+- 小组对手：葡萄牙、刚果民主共和国、乌兹别克斯坦
+- 首场比赛：Uzbekistan v Colombia（FIFA 官方日期 2026-06-17，Mexico City Stadium，未开赛）
+- 队伍定位：南美强队，身体对抗、前场创造力和比赛韧性兼具。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-17 | Uzbekistan v Colombia | Mexico City Stadium | 未开赛 |
+| 2026-06-23 | Colombia v Congo DR | Guadalajara Stadium | 未开赛 |
+| 2026-06-27 | Colombia v Portugal | Miami Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 中前场创造力决定能否打穿低位。
+- 防守转换和情绪控制是风险点。
+- 面对新军时，强弱差和盘口热度要分开评估。
 
 ## 资料来源
 

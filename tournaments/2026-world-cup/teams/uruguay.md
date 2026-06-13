@@ -1,24 +1,24 @@
-# 墨西哥国家队
+# 乌拉圭国家队
 
-team_en: Mexico
-team_code: MEX
-confederation: CONCACAF
+team_en: Uruguay
+team_code: URU
+confederation: CONMEBOL
 last_updated: 2026-06-12T12:23:34+08:00
 
 ## 基础记录
 
-- 所属小组：Group A
-- 小组对手：南非、韩国、捷克
-- 首场比赛：Mexico 2-0 South Africa（FIFA 官方日期 2026-06-11，Mexico City Stadium，已结束）
-- 队伍定位：东道主之一，小组首战已结束，主场环境和公众期待都会放大比赛波动。
+- 所属小组：Group H
+- 小组对手：西班牙、佛得角、沙特阿拉伯
+- 首场比赛：Saudi Arabia v Uruguay（FIFA 官方日期 2026-06-15，Miami Stadium，未开赛）
+- 队伍定位：南美强队，对抗、压迫和锋线终结能力具备高下限。
 
 ## 小组赛程
 
 | FIFA 官方日期 | 比赛 | 场地 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-11 | Mexico 2-0 South Africa | Mexico City Stadium | 已结束 |
-| 2026-06-18 | Mexico v Korea Republic | Guadalajara Stadium | 未开赛 |
-| 2026-06-24 | Czechia v Mexico | Mexico City Stadium | 未开赛 |
+| 2026-06-15 | Saudi Arabia v Uruguay | Miami Stadium | 未开赛 |
+| 2026-06-21 | Uruguay v Cabo Verde | Miami Stadium | 未开赛 |
+| 2026-06-26 | Uruguay v Spain | Guadalajara Stadium | 未开赛 |
 
 ## 当前资料状态
 
@@ -28,9 +28,9 @@ last_updated: 2026-06-12T12:23:34+08:00
 
 ## 预测观察点
 
-- 主场优势与主场压力需要一起评估。
-- 若盘口过热，需保留小胜或冷门风险。
-- 中前场创造力与防线回追速度是后续判断重点。
+- 高强度对抗能压制多数对手节奏。
+- 前场终结效率决定能否打穿盘口。
+- 犯规控制和牌面风险需要关注。
 
 ## 资料来源
 
